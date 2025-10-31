@@ -236,6 +236,21 @@ in various programming languages.
 
 ### 2025
 
+* **Multiple Resumptions and Local Mutable State, Directly** (ICFP 2025)
+  by Serkan Muhcu, Philipp Schuster, Michel Steuwer, and Jonathan Immanuel Brachthäuser
+  ([doi](https://dl.acm.org/doi/10.1145/3747529))
+  ([pdf](https://se.cs.uni-tuebingen.de/publications/muhcu2025multiple.pdf))
+
+* **Dynamic Wind for Effect Handlers** (OOPSLA 2025)
+  by David Voigt, Philipp Schuster, and Jonathan Immanuel Brachthäuser
+  ([doi](https://dl.acm.org/doi/10.1145/3763155))
+  ([pdf](https://se.cs.uni-tuebingen.de/publications/voigt2025dynamic.pdf))
+
+* **Tracing Just-in-time Compilation for Effects and Handlers** (OOPSLA 2025)
+  by Marcial Gaißert, CF Bolz-Tereick, and Jonathan Immanuel Brachthäuser
+  ([doi](https://dl.acm.org/doi/10.1145/3763085))
+  ([pdf](https://se.cs.uni-tuebingen.de/publications/gaissert2025tracing.pdf))
+
 * **Affect: An Affine Type and Effect System** (POPL 2025)  
   by Orpheas van Rooij and Robbert Krebbers  
   ([doi](https://doi.org/10.1145/3704841))
